@@ -1,0 +1,36 @@
+_repo: The-cremation-of-the-dead-considered-from-an-aesthetic-sanitary-religious-historical-medico-l__54176
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Wells, Spencer
+    aliases:
+    - Wells, T. Spencer (Thomas Spencer)
+    - Wells, Thomas Spencer, Sir
+    birthdate: 1818
+    deathdate: 1897
+    gutenberg_agent_id: '47707'
+    url: http://www.gutenberg.org/2009/agents/47707
+creator:
+  author:
+    agent_name: Erichsen, Hugo
+    birthdate: 1860
+    deathdate: 1944
+    gutenberg_agent_id: '35795'
+    url: http://www.gutenberg.org/2009/agents/35795
+description: ''
+gutenberg_issued: '2017-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54176'
+  lccn: 07035835
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cremation'
+- !lcc 'RA'
+- GITenberg
+title: "The cremation of the dead\r\nconsidered from an aesthetic, sanitary, religious,\
+  \ historical, medico-legal, and economical standpoint"
+url: http://www.gutenberg.org/ebooks/54176
